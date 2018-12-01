@@ -3,6 +3,7 @@ Eine Sammlung meiner Jupyter Notebook Snippets. Python-Packages die ich teste, o
 Das Repository ist über 'pipenv' aufgebaut. Es kann geklont und per `pipenv install` in ein virtuelles Python Environment installieren werden.
 
 ## Klonen des Repos
+Das Repository kann einfach heruntergeladen werden. Natürlich ebenfalls per Git-Befehl oder in der GUI eurer Wahl.
 ```bash
 # Repository Klonen
 git clone https://github.com/Jonnyblacklabel/notebook_snippets.git
