@@ -12,7 +12,7 @@ git clone https://github.com/Jonnyblacklabel/notebook_snippets.git
 ## Installation des Klons
 Der Befehl erstellt ein neues virtuelles Environment und installiert dort alle in der Pipfile angegebenen Packages.
 ```python
-pipenv install pipenv
+pipenv install
 ```
 
 ## Jupyterlab ausführen
