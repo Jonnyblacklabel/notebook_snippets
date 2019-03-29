@@ -8,6 +8,7 @@ dependencies:
   - tqdm
   - matplotlib
   - seaborn
+  - plotly
   - pandas
   - requests
   - ipywidgets
