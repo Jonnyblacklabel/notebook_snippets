@@ -14,3 +14,4 @@ Verwendet werden:
   - ipywidgets
   - google-api-python-client
   - oauth2client
+  - plotly
