@@ -15,3 +15,4 @@ Verwendet werden:
   - google-api-python-client
   - oauth2client
   - plotly
+  - pydata-google-auth
